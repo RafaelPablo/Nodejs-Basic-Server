@@ -1,4 +1,4 @@
-# 01 - Nodejs-Basic-Server (Rocketseat - GoStack)
+# 02 - Nodejs-Basic-Server (Rocketseat - GoStack)
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" style="width: 100%;"/>
 
